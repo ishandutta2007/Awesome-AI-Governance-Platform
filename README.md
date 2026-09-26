@@ -3,7 +3,7 @@
 ![Awesome AI Governance Platform Banner](./assets/banner.svg)
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Governance-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Governance-Platform?style=social&color=white" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Governance-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Governance-Platform?style=social&color=white" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Governance-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Governance-Platform?style=social&color=white" alt="GitHub Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Governance-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Governance-Platform?style=flat-square&color=blue" alt="License"></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Governance-Platform/stargazers"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-AI-Governance-Platform?style=flat-square&color=emerald" alt="Last Commit"></a>
@@ -61,9 +61,9 @@ Below is a curated table of enterprise AI governance platforms, sorted by **Comp
 
 ## 📦 Open-Source GitHub Projects
 
-Below is a curated table of open-source AI Governance building blocks, sorted by **GitHub Star Count** in descending order.
+Below is a curated table of open-source AI Governance building blocks, sorted by **GitHub Stars_Count** in descending order.
 
-| ⭐ Stars | 📦 Repository | 📝 Description | 🎯 Governance Focus |
+| ⭐ GitHub_Stars | 📦 Repository | 📝 Description | 🎯 Governance Focus |
 | :---: | :--- | :--- | :--- |
 | [![Stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers) | **[evidentlyai/evidently](https://github.com/evidentlyai/evidently)** | Open-source ML and LLM observability framework for tracking data drift, target drift, and model quality metrics over time. | Model Monitoring & Drift Detection |
 | [![Stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social&color=white)](https://github.com/guardrails-ai/guardrails/stargazers) | **[guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails)** | Python framework for specifying structure, type, and quality constraints on LLM outputs to guarantee policy compliance. | Output Verification & Safety Rails |
